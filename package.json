@@ -1,0 +1,34 @@
+{
+  "name": "firegem-rest",
+  "version": "0.0.0",
+  "description": "A REST API for node.js sitting on top of mongoose. Ideal for use with KendoUI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "example/nodeunit"
+  },
+  "dependencies": {
+    "mongoose":"*",
+    "mongoose-subpopulate":"~0.1.19",
+    "underscore":"*",
+    "nodeunit":"0.8.2",
+    "moment":"2.5.0",
+    "winston":"0.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ransico/firegem-rest.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "kendoui",
+    "mongoose",
+    "crud"
+  ],
+  "author": "Lewis Weaver <ransico@gmail.com> (https://github.com/ransico)",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/ransico/firegem-rest/issues"
+  },
+  "homepage": "https://github.com/ransico/firegem-rest"
+}

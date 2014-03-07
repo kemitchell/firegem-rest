@@ -1,0 +1,4 @@
+#!/usr/bin/env node --debug
+// --debug-brk
+var reporter = require('nodeunit').reporters.default;
+reporter.run(['test']);
