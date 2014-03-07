@@ -1,6 +1,6 @@
 {
   "name": "firegem-rest",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A REST API for node.js sitting on top of mongoose. Ideal for use with KendoUI.",
   "main": "index.js",
   "scripts": {
