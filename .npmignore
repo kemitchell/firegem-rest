@@ -1,0 +1,5 @@
+node_modules
+*.un~
+commit_message
+*.DS_STORE
+*.sublime-*
